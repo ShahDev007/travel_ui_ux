@@ -1,6 +1,3 @@
-If you’ve ever struggled with creating a sleek UI that also performs flawlessly, you're not alone.
-
-Your stunning travel will include:
 - An appealing hero section
 - A camp section featuring various camps to explore
 - An engaging travel guide section
